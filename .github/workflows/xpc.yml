@@ -1,5 +1,5 @@
 
-name: Zaky
+name: AmazonRDP
 
 on: workflow_dispatch
 
